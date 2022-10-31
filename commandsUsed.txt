@@ -1,0 +1,9 @@
+git status 
+git add 
+git commit -m "first commit"
+git log
+git push
+git pull
+ls
+git gui&
+gitk&
