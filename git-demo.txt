@@ -1,2 +1,4 @@
 almost empty file
 the second line
+stratr using 
+git gui&
