@@ -1,0 +1,15 @@
+git checkout --filename
+git checkout . // to all files
+git clean -xdf //for new files that haven't been commited
+	x - igoring applicable rules 
+	d - removes directories if they unnown to git
+	f - force
+git reset --filename // if it's already in index
+git commit -amend -m "message" // add some content to existed commit
+git reset HEAD^^ //(HEAD~2) //
+
+git reset --soft HEAD~1// resets to index
+git reset --mixed HEAD^//default resets to file system
+git reset --hard HEAD^ // deletes commit completely
+
+git revert SHA1 // 
