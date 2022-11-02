@@ -7,6 +7,3 @@ git pull
 ls
 git gui&
 gitk&
-git show -s --pretty=raw 12ba07
-git ls-tree 61eeb34
-
