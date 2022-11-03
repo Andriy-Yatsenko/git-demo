@@ -1,0 +1,4 @@
+git checkout -b branchName // to create branch and move head there
+git merge nameOfBranch//  
+
+git merge --abort //obvious
