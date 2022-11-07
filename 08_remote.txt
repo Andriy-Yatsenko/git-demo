@@ -1,0 +1,10 @@
+to add
+git remote add <name><url> 
+git remote add origin git@github.com:user/repo.git
+
+to remove
+git remote remove origin
+
+view 
+git remote -v
+git remote show <name>

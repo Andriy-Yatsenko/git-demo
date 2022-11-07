@@ -1,0 +1,6 @@
+git tag version1// mark commit with tag
+git --list //view tags
+git push --tags //push tags
+git checkout version1 // work like with sha1
+
+

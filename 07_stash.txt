@@ -1,0 +1,5 @@
+git stash save "description" // save working directory
+git stash list // view stashes'
+git stash pop //bring back and remove from stash 
+git stash apply // leave in stash 
+git stash drop // clear
